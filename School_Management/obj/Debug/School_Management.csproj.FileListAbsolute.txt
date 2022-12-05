@@ -1,0 +1,15 @@
+D:\C#\School_Management\School_Management\bin\Debug\School_Management.exe.config
+D:\C#\School_Management\School_Management\bin\Debug\School_Management.exe
+D:\C#\School_Management\School_Management\bin\Debug\School_Management.pdb
+D:\C#\School_Management\School_Management\bin\Debug\Guna.UI2.dll
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.csproj.AssemblyReference.cache
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.csproj.SuggestedBindingRedirects.cache
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.login.resources
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.Menu.resources
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.Properties.Resources.resources
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.Students.resources
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.csproj.GenerateResource.cache
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.csproj.CoreCompileInputs.cache
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.csproj.CopyComplete
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.exe
+D:\C#\School_Management\School_Management\obj\Debug\School_Management.pdb
